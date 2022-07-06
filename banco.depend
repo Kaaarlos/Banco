@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1583868091 source:c:\users\cejac\onedrive\escritorio\seda\banco\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<math.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"cola.h"
+
+1583694141 c:\users\cejac\onedrive\escritorio\seda\banco\pila.h
+	<iostream>
+	<cctype>
+	<stdlib.h>
+	<windows.h>
+
+1583847540 c:\users\cejac\onedrive\escritorio\seda\banco\cola.h
+	<iostream>
+	<stdlib.h>
+
